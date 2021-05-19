@@ -537,3 +537,45 @@
   label: 'best-project-name',
   metadata: {}
 }
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:48:12.910Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:48:12.924Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:48:12.926Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:48:13.054Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'storage.sample.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-05-19T16:48:24.800Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-19T16:48:24.801Z',
+  label: 'best-project-name',
+  metadata: {}
+}

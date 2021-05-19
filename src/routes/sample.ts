@@ -13,4 +13,5 @@ router.route("/")
 router.route('/:id')
 .put(validator.update,controller.update)
 .delete(controller.delete)
+.get(controller.get)
 export default router

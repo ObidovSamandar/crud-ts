@@ -5,3 +5,10 @@
   label: 'best-project-name',
   metadata: {}
 }
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-19T16:48:24.801Z',
+  label: 'best-project-name',
+  metadata: {}
+}
