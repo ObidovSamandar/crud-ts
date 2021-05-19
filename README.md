@@ -1,13 +1,13 @@
 # crud-ts
 
 
-#### GET - http://localhost/port/?field=value
+### GET - http://localhost/port/?field=value
 ##### Example http://localhost/port/?fname=John
 
 ### POST - http://localhost/port
 #### You should send fields and their values in the form of object in the request body. 
 
-#### GET - http://localhost/port/:id
+### GET - http://localhost/port/:id
 ##### Example http://localhost/port/60a53a4cd7ac26016198b8d1
 
 ### DELETE -http://localhost/port/:id
