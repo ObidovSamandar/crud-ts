@@ -1,0 +1,539 @@
+{
+  message: 'DB: Database URL:mongodb://localhost/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T15:35:09.592Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T15:35:09.607Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T15:35:09.608Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T15:35:09.618Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T15:37:06.658Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T15:37:06.671Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T15:37:06.673Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T15:37:06.683Z',
+  label: 'crud-ts',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T15:47:58.317Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T15:47:58.338Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T15:47:58.340Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T15:47:58.350Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T15:49:04.875Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T15:49:04.889Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T15:49:04.891Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T15:49:04.902Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T15:58:55.569Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T15:58:55.586Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T15:58:55.587Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T15:58:55.658Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:07.259Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:07.273Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:07.275Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:07.388Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:55.572Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:55.587Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:55.589Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:01:55.598Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:03:03.072Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:03:03.086Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:03:03.088Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:03:03.098Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:10:07.119Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:10:07.133Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:10:07.135Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:10:07.146Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:11:04.771Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:11:04.786Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:11:04.788Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:11:04.798Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:13:21.042Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:13:21.056Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:13:21.058Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:13:21.068Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:15:31.147Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:15:31.161Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:15:31.162Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:15:31.172Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: document must have an _id before saving',
+  level: 'error',
+  timestamp: '2021-05-19T16:15:36.821Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:17:21.885Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:17:21.900Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:17:21.901Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:17:21.913Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:21:36.365Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:21:36.379Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:21:36.381Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:21:36.391Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:27:44.481Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:27:44.495Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:27:44.496Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:27:44.507Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:12.336Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:12.349Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:12.350Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:12.361Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:52.019Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:52.033Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:52.034Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:28:52.044Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:34:15.911Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:34:15.925Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:34:15.926Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:34:15.937Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: Database URL:mongodb://localhost:27017/crudBase',
+  level: 'info',
+  timestamp: '2021-05-19T16:43:33.912Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized',
+  level: 'info',
+  timestamp: '2021-05-19T16:43:33.925Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 8085',
+  level: 'info',
+  timestamp: '2021-05-19T16:43:33.926Z',
+  label: 'best-project-name',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-19T16:43:33.937Z',
+  label: 'best-project-name',
+  metadata: {}
+}

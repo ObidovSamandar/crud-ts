@@ -1,0 +1,29 @@
+{
+  "name": "leartses6cors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "loglevel": "^1.7.1",
+    "morgan": "^1.10.0",
+    "ts-node": "^9.1.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.10",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.11",
+    "@types/mongoose": "^5.10.5",
+    "@types/morgan": "^1.9.2"
+  }
+}

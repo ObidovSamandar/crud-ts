@@ -1,0 +1,7 @@
+{
+  message: 'storage.sample.create: finished with error: document must have an _id before saving',
+  level: 'error',
+  timestamp: '2021-05-19T16:15:36.821Z',
+  label: 'best-project-name',
+  metadata: {}
+}
